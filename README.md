@@ -134,3 +134,9 @@ I'm eager to apply my skills to real-world problems, learn from experienced prof
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gayathrigollapalli613-ops&theme=tokyonight)
 
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=gayathrigollapalli613-ops&color=blueviolet&style=for-the-badge)
+
+
