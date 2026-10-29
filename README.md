@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gayathri 👋
 
-<!--
-**gayathrigollapalli613-ops/gayathrigollapalli613-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & ML Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a recent B.Tech graduate specializing in Artificial Intelligence and Machine Learning. I'm passionate about data analytics, machine learning, and solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Google Colab
+
+## 🚀 Projects
+- **Customer Churn Analysis:** Analyzing customer churn patterns using SQL.
+- **Lung & Colon Cancer Detection:** Medical image classification using EfficientNetB3.
+- **Gitpractice:** Learning Git commands, branching, commits, and version control.
+
+## 🎯 Career Objective
+Seeking entry-level opportunities in Data Analytics and AI/ML to apply my skills and contribute to real-world projects.
+
+## 🤝 Connect with Me
+- LinkedIn:[https://www.linkedin.com/in/gayathrigollapalli/](https://www.linkedin.com/in/gayathrigollapalli/)
+- GitHub: [View My Repositories](https://github.com/gayathrigollapalli613-ops?tab=repositories)
